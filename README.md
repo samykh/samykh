@@ -27,7 +27,7 @@
 
 ---
 
-### 👨‍💻 The Engineer Behind The Bots
+### 🖥️ The Engineer Behind The Bots
 
 I am a freelance **AI & Automation Engineer** specializing in bridging the gap between business logic and artificial intelligence. I don't just "zap" things together; I build **full-stack automated applications**.
 
