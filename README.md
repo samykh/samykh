@@ -63,38 +63,88 @@ I am a freelance **AI & Automation Engineer** specializing in bridging the gap b
 
 | 📂 Project | 🛠 Tech Stack | 🚀 Business Impact |
 | :--- | :--- | :--- |
-| **Corporate Intelligence Audit System** | **n8n, Airtable, Scraping API (APIfy)** | Built a modular system that auto-scrapes & structures client insights (KPIs, decision makers) to generate an audit for AI opportunities. |
-| **Enterprise OCR Pipeline** | **n8n, Gmail, SharePoint, Telegram** | Engineered a high-accuracy flow for accounting to digitize handwritten labels with OCR, validated via Telegram bot. |
-| **AI Voice Sales Agent** | **VAPI, LLM API, Google Maps** | A vocal agent who calls leads found via Maps API, classifies them with AI, and syncs to Airtable. |
-| **Smart Document Digitization** | **Python, OCR, Google Sheets** | Created an end-to-end workflow to extract unstructured data from mixed documents and push formatted reports. |
-| **B2B Lead Gen Engine** | **n8n, Data Enrichment APIs** | Automated the entire prospecting funnel: sourcing leads, enriching data on CRM, and scoring for outreach. |
+| **Corporate Intelligence Audit System** | **n8n, Airtable, Scraping API (APIfy) & Scripts (Playwright, Selenium,etc)** | Built a modular system for a startup that auto-scrapes & structures client insights (KPIs, decision makers) to generate an audit for AI Automation opportunities. |
+| **Enterprise OCR Pipeline** | **n8n, Airtable, Gmail API, Sheet API, Google Drive API, SharePoint API, Telegram API and One drive API** | Engineered a high-accuracy flow for accounting to digitize handwritten labels with OCR and validation logic on Telegram bot and Mail automation with Gmail and save the results on multiple services Airtable, SharePoint, Google Drive, One Drive and for monitoring and error hundling Google Sheet. |
+| **AI Voice Sales Agent** | **VAPI, LLM API, Google Maps API** | A vocal agent who calls leads we find and scrap using Maps API and classify with AI Agent and save on Airtable for monitoring. |
+| **Smart Document Digitization** | **Python, OCR, Google Sheets, n8n** | Created an end-to-end workflow to extract unstructured data from mixed documents and push formatted reports to Sheets. |
+| **B2B Lead Gen Engine** | **n8n, Data Enrichment APIs** | Automated the entire prospecting funnel: sourcing leads, enriching data on internal CRM, and scoring them for sales outreach. |
 
 ---
 
-### 🧰 The Ultimate Stack
+### 🧰 The Ultimate Stack (Integrations & Tools)
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="120"><strong>⚡ Automation <br/> & AI Core</strong></td>
+    <td align="center">
+      <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=make&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" height="28"/></a>
+    </td>
+  </tr>
 
-  <p><strong>⚡ Core Automation & AI</strong></p>
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bubble-28205C?style=for-the-badge&logo=bubble&logoColor=white"/>
-  
-  <br/><br/>
-  
-  <p><strong>🛠️ Development & Infrastructure</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,python,docker,aws,gcp,linux,git,postgres,redis,supabase,firebase,mongo,figma,notion,gmail,discord,slack&perline=9" />
-  </a>
-</div>
+  <tr>
+    <td align="center" width="120"><strong>📱 Frontend <br/> & UI</strong></td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Bubble-28205C?style=flat-square&logo=bubble&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="28"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120"><strong>🗄️ RAG <br/> & Data</strong></td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Qdrant-D32F2F?style=flat-square&logo=qdrant&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/ChromaDB-FF6B00?style=flat-square&logo=python&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="28"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120"><strong>💬 Chat <br/> & APIs</strong></td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120"><strong>👨‍💻 Code <br/> & Cloud</strong></td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28"/></a>
+    </td>
+  </tr>
+
+   <tr>
+    <td align="center" width="120"><strong>📊 Ops <br/> & Scraping</strong></td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="28"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/></a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-<div align="center">
-  <h3>🐍 My Contribution Activity</h3>
-  <img src="https://github.com/samykh/samykh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-</div>
 
 <p align="center">
   <i>Let's build something efficient together.</i>
