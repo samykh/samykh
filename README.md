@@ -37,28 +37,6 @@ I am a freelance **AI & Automation Engineer** specializing in bridging the gap b
 
 ---
 
-### 📞 Start Your Project Right (Consultation)
-
-<div align="center">
-  <p>Stop guessing. Let's hop on a 30-minute call to audit your needs and scope your project.</p>
-   
-  <a href="https://www.upwork.com/services/consultation/development-it-samy-1996341200484234752" target="_blank">
-    <img src="https://img.shields.io/badge/Book_30_min_Consultation-Only_$10-6fda44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=14a800" height="50"/>
-  </a>
-
-  <p><strong>👇 After our call, I will finish up the documents and send them for your approval:</strong></p>
-
-  <table>
-    <tr>
-      <td align="center">📋 <strong>Project Plan</strong></td>
-      <td align="center">💸 <strong>Time & Cost Estimate</strong></td>
-      <td align="center">📝 <strong>Meeting Summary</strong></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🏆 Featured Projects (Case Studies)
 
 | 📂 Project | 🛠 Tech Stack | 🚀 Business Impact |
