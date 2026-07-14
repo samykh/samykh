@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3590F3&center=true&vCenter=true&width=600&lines=السلام+عليكم;I'm+Samy+Kherbachi;n8n+%26+AI+Expert+Engineer;Building+Smart+Agents;LLM+Inference+%7C+API+LangGraph+%7C+API+%7C+RAG+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3590F3&center=true&vCenter=true&width=600&lines=السلام+عليكم;I'm+Samy+Kherbachi;n8n+%26+AI+Expert+Engineer;Building+Smart+Agents;LLM+Inference+%7C+LangGraph+%7C+API+%7C+RAG+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>I transform manual chaos into <strong>smart, scalable, autonomous systems.</strong></em>
+  <em>I transform manual chaos into <strong>smart, scalable, autonomous AI systems.</strong></em>
 </p>
 
 <p align="center">
