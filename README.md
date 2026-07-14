@@ -29,7 +29,7 @@
 
 ### 🖥️ The Engineer Behind The Bots
 
-I am an **AI, Data & Software Engineer** specializing in bridging the gap between business logic and artificial intelligence. I don't just "zap" things together; I build **full-stack automated applications**.
+I am an **AI, Data & Software Engineer** working at **UST** at this moment, specializing in bridging the gap between business logic and artificial intelligence. I don't just "zap" things together; I build **full-stack automated applications**.
 
 * 🔭 **Current Focus:** Building **AI Agents**, **RAG Systems**, complex **Automation / ETL pipelines** and getting big on LLM inferance optimization.
 * 💡 **Philosophy:** If you do it more than twice, I can automate it.
